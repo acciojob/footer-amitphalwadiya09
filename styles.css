@@ -1,1 +1,9 @@
 /* your code here */
+.bottom-details
+{
+	display:flex;
+	color:rgb(209,210,212);
+	background-color:rgb(44,48,58);
+	justify-content:space-between;
+	padding:10px;
+}
